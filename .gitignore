@@ -10,7 +10,7 @@
 
 # production
 # We enable to keep the build package into github so we can publish it directly on github
-# /build
+/build
 
 # misc
 .DS_Store
