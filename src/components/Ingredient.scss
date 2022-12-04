@@ -1,0 +1,37 @@
+.ingredient {
+    background-color: white;
+    margin: 5px;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 150px;
+    &-image {
+        background-color: beige;
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: local;
+        height: 150px;
+        display: flex;
+        align-items: flex-end;
+        &-info {
+            padding: 20px 10px 5px 10px;
+            width: 100%;
+            color: white;
+            text-align: left;
+            background: rgb(0, 0, 0);
+            background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 35%, rgba(0, 0, 0, 0) 100%);
+            h4 {
+                margin: 0;
+                font-weight: 600;
+            }
+            &-quantity {
+                margin-top: 5px;
+                font-size: 0.8em;
+                font-style: italic;
+            }
+        }
+    }
+    .description {
+        padding: 10px;
+    }
+}

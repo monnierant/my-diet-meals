@@ -1,0 +1,24 @@
+/* Frame 3 */
+
+nav {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 4px 8px;
+    gap: 10px;
+}
+
+a {
+    color: white;
+    width: 100px;
+    height: 23px;
+    background: grey;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 10px 0 10px;
+    &.active {
+        background: #37BD6A;
+    }
+}

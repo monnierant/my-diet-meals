@@ -1,0 +1,25 @@
+article {
+    // display: flex;
+    // align-items: center;
+    h3 {
+        text-transform: uppercase;
+        margin: 0;
+        padding: 12px 0 10px 0;
+        background-color: #A4243B;
+        color: white
+    }
+    .Ingredients {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0) 5%);
+        width: 100%;
+        border-radius: 0 0 20px 20px;
+        overflow: hidden;
+    }
+    margin-left: min(30%, 20px);
+    margin-right: min(30%, 20px);
+    margin-bottom: 10px;
+    border-radius: 20px 20px 0 0;
+    overflow: hidden;
+}
