@@ -1,0 +1,180 @@
+{
+    "name": "Petit déjeuner",
+    "sources": {
+        "proteines": {
+            "name": "Proteines",
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Yaourt",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.UIAvb2Zaot50F3nyVSt1UQHaHa%26pid%3DApi&f=1&ipt=ff3566ef9c5a4b0f73d74c5d27f282b1c0f083de74b68bdfe46f15d83eeef74d&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage Blanc",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3s8gzQ5-v9UVExN9c8aagAHaFj%26pid%3DApi&f=1&ipt=7ba662056655cb881496e31e99438a494b4aadaacff1b0652a3e2a8c0520a877&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Faisselle",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.LsIxR-8DKZURh4dkE8vKTgHaE8%26pid%3DApi&f=1&ipt=b462268dddd770c859873c9e3360711c000d116eba16134e32edff368ac32d12&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Lait",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Bf4GX_Ao77Twl8uW0ScFkwHaFh%26pid%3DApi&f=1&ipt=8623bea3dc54f50060a3e5e10350872d689d5130aa665c394b03f6b576662d23&ipo=images",
+                    "quantity": "20 cl",
+                    "description": "(1 bol)"
+                },
+                {
+                    "name": "Oeufs",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.DHw1YX4_t-PFVk9nGYaG0wHaE7%26pid%3DApi&f=1&ipt=f9a811aa97191ba2350123ff1da21e92c54b5cb8201759369c5197bbf92d531a&ipo=images",
+                    "quantity": "1 ou 2",
+                    "description": ""
+                },
+                {
+                    "name": "Jambon",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.6l6FOD-Px0HR6wmWodWDMgHaEc%26pid%3DApi&f=1&ipt=97a1350a24ad17ab92a1ac5cc1d7f4b4626b67f43724e1b7e1c1ecd76ff09954&ipo=images",
+                    "quantity": "1 tranche",
+                    "description": ""
+                },
+                {
+                    "name": "Saumon Fumé",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.cPLIRWRQAlBFkR4RIChjjAHaE5%26pid%3DApi&f=1&ipt=0b1671b3e8fa5ec0f1907f584c8b009777568f675392b19d901bf42487c7bcea&ipo=images",
+                    "quantity": "1 tranche",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.s9SKvyfF96Ey7ZlwT5mWfgHaHF%26pid%3DApi&f=1&ipt=7810c883d47b057cb3c9dc83ccff8e2d8038c7302218cb600d0f3f917b8fab18&ipo=images",
+                    "quantity": "1 part",
+                    "description": ""
+                },
+                {
+                    "name": "Cottage Chese",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.qKL0oKkD8K6kcliQkB_nAQHaFW%26pid%3DApi&f=1&ipt=a3a7a56c8b2ea23e3edbe9482d927d7bb2da57a083011dd5b74e802c48801e5a&ipo=images",
+                    "quantity": "100 g",
+                    "description": ""
+                }
+            ]
+        },
+        "glucides": {
+            "name": "Glucides",
+            "color": "lightsalmon",
+            "ingredients": [{
+                    "name": "Pain",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.JtE6kkhKRzwkeERncohrdQHaEp%26pid%3DApi&f=1&ipt=f5c5728ee74c47c172ddd5eb4a3e7b7c92bf03e7c73cd0a54fdd5c967c70c4dd&ipo=images",
+                    "quantity": "",
+                    "description": "Au levin (complet, céréales, seigle, petit épeautre) plutot que blanc"
+                },
+                {
+                    "name": "Flocon d'avoine",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP._a3PBKkZECrWjPBkkUDBUwHaE8%26pid%3DApi&f=1&ipt=347938ab206be1531cf321fab941e4610481257044c3d029227203d42e2ccff4&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Muesli",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2NapANculY4_BKrYYk-IEQHaF1%26pid%3DApi&f=1&ipt=7d8bcf682155d6c0b9a0efc62338678c321c5f77c6aa0e8ceec03b105e4b877d&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Granola",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.k-oU-5mbwOiD-MWjF9jJ0wHaE8%26pid%3DApi&f=1&ipt=185b117991eb9edccfa405d25725c30bd7b9d6dc45fbce71db3f78099fe72089&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Crèpes Maison",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.fQmlhsg6i8NSqDenELXSsQAAAA%26pid%3DApi&f=1&ipt=7bce51b522159c96949b16143ec788191406045a9aa4cc6cdc15433aaefb66ae&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Galettes de sarrasin",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.w49EAQDjgzIPk5Ne6CRrrgHaE8%26pid%3DApi&f=1&ipt=2fc6117b8a4abf51694ee61dfca61ef23674f7ee6290db0ee82f391e561debde&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        "lipides": {
+            "name": "Lipides",
+            "color": "Gold",
+            "ingredients": [{
+                    "name": "Beurre",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.twYxPjbuWDpQI2FYZVOEwAHaE8%26pid%3DApi&f=1&ipt=79fddad08fcc5dbe01433b69e559017945fb56aa737a3430d997959d986ab960&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Purée d'oléagineux",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.GkLHkvrMny1Fi4-SPa22iAHaFK%26pid%3DApi&f=1&ipt=e0b17c2f1b4160f819913099af0d0178ac36a86215c36c15fbad64f0352114d2&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Oléagineux",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.z3w_CQmRdIxn1QnfcqFKpAHaE7%26pid%3DApi&f=1&ipt=b32a808acc2b35f9444cede4af8c0ae6bdf7f36ca5549a1ae65484721910a72a&ipo=images",
+                    "quantity": "20 à 30 g",
+                    "description": "Amandes, noisettes, cacahuètes, pistaches, noix (non salées et non sucrés)"
+                },
+                {
+                    "name": "Avocat",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fFx9Ol1Vn2xGNg6uYXd97gHaE8%26pid%3DApi&f=1&ipt=e00f989028c6e32d4329a5e9bbe2e75ed8e63c27af64c3b47b05e430a2678fd4&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        "fibres_vitamines": {
+            "name": "Fibres & Vitamines",
+            "color": "lightgreen",
+            "ingredients": [{
+                    "name": "Fruits frais",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.F90zd5jTHMUATRMiX0z9ygHaEK%26pid%3DApi&f=1&ipt=caf887868ac3391462e85856c3bf99f5c80d3d77ef51b3942655834372c84f1e&ipo=images",
+                    "quantity": "",
+                    "description": "Idéalement"
+                },
+                {
+                    "name": "Compotes",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.KiLWjab2gZ-iOb80w1AbTgHaE5%26pid%3DApi&f=1&ipt=ea5eb4c85f955c65bbb75e1422d88174aa7db78950d62cc646d34e93a7ade29b&ipo=images",
+                    "quantity": "",
+                    "description": "Sinon"
+                },
+                {
+                    "name": "Jus pressés",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.99LSyKOUC4zsKhQg5A9iSwHaE8%26pid%3DApi&f=1&ipt=34fc4b3f5a1c26228171f01da29db2db680f73359a79ad05743b208e1de807d2&ipo=images",
+                    "quantity": "",
+                    "description": "A défaut"
+                }
+            ]
+        },
+        "+/-": {
+            "name": "+/- Sucres",
+            "color": "lightgray",
+            "ingredients": [{
+                    "name": "Miel",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.8sOmnpfj__Vg-XvjS6lgUwHaEJ%26pid%3DApi&f=1&ipt=b06437996dbad323607be9b7afadafaa7e0719cdb31c0355984b01d39da5f39e&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Confitures",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5xFZSpIEvYTuW6upiNHtPwHaE8%26pid%3DApi&f=1&ipt=4ae6d2174046ac05498764ca15e7b8effa02f1de5025b8354f980145f48a3ab5&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "...",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OQzHFsri_08nnjnCsyNkRwHaEK%26pid%3DApi&f=1&ipt=96b5e911f03b566f4a5ccd3f77fe450b247e3e09e01e40e65ad262075cff0444&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        }
+    }
+}
