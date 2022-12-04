@@ -1,0 +1,109 @@
+{
+    "name": "Collation",
+    "recettes": [{
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Fruit",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nXPJWXWBeleas-QyUnHvJAHaEK%26pid%3DApi&f=1&ipt=fe225d3b07e8ca330b64226ffc54c022d286546c17332e883b5da99a7e1b1ddb&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Oléagineux",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.vuM2HQhhi9sVEe4dxNgnvwHaDt%26pid%3DApi&f=1&ipt=a22615f053b43d8c4da4386d972e04e1c780133269c3f2651eef62de70c89d2d&ipo=images",
+                    "quantity": "1 petite poignée",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Pain",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yhxWNSkrws3Hv1xpojZueAHaEy%26pid%3DApi&f=1&ipt=9ad8dbf24fb7665e869345f59ea3ef2016e12116076b4a186ab91dd250beb7f1&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.spHGV9l5tcml1tBT28VTHgHaDq%26pid%3DApi&f=1&ipt=d3a91c4694df7480ec8c815d07739158050a6b70f1d8588e3c84adb6a0a38a61&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Batonnet de carotte",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RSyIUqkMWXXk176X2hK61AHaDO%26pid%3DApi&f=1&ipt=672ee77e866f67c9eca981619d8f987fe4edb750c46feb3bbf77b9978e213a9d&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Houmous",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jg2qNiRusMP76DK0MEkI1gHaE7%26pid%3DApi&f=1&ipt=588c634e33727f39880aeccb7c17d989dbb82bb513b47d406883b8f0052f608d&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Yaourt",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.R1jRfHWx4NFZU4ZGPKcahgHaE8%26pid%3DApi&f=1&ipt=4a409fb20d0cb97e1db5d9713776192df54320bfc63c67467324e155fea12430&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Granola",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.r-j_22pW99XLNCm0RyDLdQHaEK%26pid%3DApi&f=1&ipt=fd6f6afb5740c9a9d13846c7ce9d3dad68d2a4de046f9366357f008f538b2c23&ipo=images",
+                    "quantity": "un peu",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Gateau maison",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.702S4Hvh9let3HG2Zq15QgHaD4%26pid%3DApi&f=1&ipt=8946daa1360d7105551c77b4dfaf55ad6250786584038dbbc8c5e95717cde835&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fruit",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iOooEMCOudUsfO4IU54aoQHaEo%26pid%3DApi&f=1&ipt=8d55a84b997b10f0f3f22931d32ba309b6b1f1d7b8eafc2616f33fde5c3233d2&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                    "name": "Gateau maison",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.eRqAan_bNy8SfmaLJfNkUAHaFW%26pid%3DApi&f=1&ipt=d24d8df103b588c1d8f109e1fd979ec68288055cca6efe7a728deb4a31fea662&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage Blanc",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.UMXBRGWPWdD_d8ShtPn4HgHaDi%26pid%3DApi&f=1&ipt=710c8872bff06c7bcf8cc7d5819f136bd1f421264de506d44295e33a2c2b16ff&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "color": "lightblue",
+            "ingredients": [{
+                "name": "Overnight Poridge",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.cZZeiubmDyJ6RgdSMcsVPAHaDD%26pid%3DApi&f=1&ipt=a44829314e31401c304414ef372e99def1b601557e2fe4c58ef7012e53e41289&ipo=images",
+                "quantity": "",
+                "description": ""
+            }]
+        }
+    ]
+}

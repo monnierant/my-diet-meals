@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# We enable to keep the build package into github so we can publish it directly on github
+# /build
 
 # misc
 .DS_Store

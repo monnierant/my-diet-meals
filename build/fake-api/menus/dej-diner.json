@@ -1,0 +1,187 @@
+{
+    "name": "Déjeuner / Diner",
+    "sources": {
+        "proteines": {
+            "name": "Proteines",
+            "color": "lightcoral",
+            "ingredients": [{
+                    "name": "Viande",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6kipg4dXCcYnvic3qi_LnAHaE8%26pid%3DApi&f=1&ipt=7a7d5116caad4e87ce6ba991832f9af506ea6eef3f187d3aefec304a3c6221fd&ipo=images",
+                    "quantity": "100g à 150g",
+                    "description": ""
+                },
+                {
+                    "name": "Poisson",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.h_Fh4eX714LXWd6V4DG8HAHaEK%26pid%3DApi&f=1&ipt=687bbd9ac343a4a4991ec77503613902e7890c7656de010d0750476b09991078&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Oeufs",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ubA7mZC2jn3iuTulrFGp-AHaFJ%26pid%3DApi&f=1&ipt=a3c85a21ecc8eb38457eb9db198b967b237b6d5a352fd530fd50cfeea13b8ea4&ipo=images",
+                    "quantity": "2 ou 3",
+                    "description": ""
+                },
+                {
+                    "name": "Tofu",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.zMsohjQVqz0Uda_49QIGUwHaE8%26pid%3DApi&f=1&ipt=d8609a70a2f2a3a7776d9751859582416e3fb3942e6d63de28fd1f628b749aa3&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Protéine de soja",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.heC3ZCQgqEgSyGHGVcNrcgHaEA%26pid%3DApi&f=1&ipt=31126373a2dc7fc80e8332e14b6bd91ba6852754bd63c0073e4164c25c6f3b9a&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.I7eHCzTimL4SiJsK19wLWgHaDt%26pid%3DApi&f=1&ipt=18d35d8f839590edb8dd206027ba83a0812d8e8ac30397b7aba4376467f2c20c&ipo=images",
+                    "quantity": "",
+                    "description": "Peu apporter une partie des protéines"
+                },
+                {
+                    "name": "Légumineuses",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.NK2Yi_-mF2YPJZAUtnuvzAHaEE%26pid%3DApi&f=1&ipt=4f5e96d0c079bdb60c5e19826d9a055119edbf0241fbe8b00001b4f59c3ed91e&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        "feculents": {
+            "name": "Féculents",
+            "color": "lightsalmon",
+            "ingredients": [{
+                    "name": "Pain",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yhxWNSkrws3Hv1xpojZueAHaEy%26pid%3DApi&f=1&ipt=03454e2c8cac6bae8c5556f2833b224b07f86d4b1a4d8581d09b4af93fc7b22f&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Pâtes",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.DT1Ng8W1KHbgVJi6Zr-0ZgHaE8%26pid%3DApi&f=1&ipt=912119d4b159568c34953b9a22c538f5804159f2fe46f46047180bdaa877461e&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Riz",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1G3sXZXHHT6QIWomQHkywQHaHa%26pid%3DApi&f=1&ipt=f7dd3fe27211f7c327a0f0f784cc83ec6d319711d65fd7b5a4f33e965c62de1c&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Quinoa",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.DTzlcOzrY8AndDsnOuywLgHaE9%26pid%3DApi&f=1&ipt=764f3ee404531dea3b80c9b3dcaa7b9b2f3e22059254ca3f9e441bde600733b3&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Boulgour",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.3-4AHk8MeNGNvMxkfvt60wEyDM%26pid%3DApi&f=1&ipt=da0de82a8fc3436ed1ae0661e9826071863fa648c0a92bbf3a5ae90c3e0e0ce4&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Legumineuses",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ylPTpERkXpcOMX_VUoBiFQHaE8%26pid%3DApi&f=1&ipt=d184ddcda8a76ff2eef11f4a6f64461324fe0cc5a99a9e908841e91b6554ded7&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        "legumes": {
+            "name": "Légumes",
+            "color": "lightgreen",
+            "ingredients": [{
+                    "name": "Cuit",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FXawR4Z2GIooIKOQfoay2AHaE8%26pid%3DApi&f=1&ipt=12858d40a39f5019364d010bbdb0db8b4f336ca6f0dbceac4148cbf867b4ca51&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Cru",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.zorel8LndNul2wP0XxqRtAHaE8%26pid%3DApi&f=1&ipt=7d4f7cff9e23c9e5671e1ec052f95e6d9e791225e3c2ae83599b0b2d23937cbf&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Salade Composée",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.VMsOJepvC7wPUKktsnqlPAHaFB%26pid%3DApi&f=1&ipt=b75132889ba89aa57cfde9c027528afa72868fd17976f94493edd5ab946cbc24&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Salade",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.vjC6xczqJMtKK6z29b5ITQHaE6%26pid%3DApi&f=1&ipt=bdac0e25f05605f85d244e08ee48db0b0b5296634c7e32fff3fee41899c0bfc5&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        },
+        "lipides": {
+            "name": "Lipides",
+            "description": "1 à 2 cs",
+            "color": "Gold",
+            "ingredients": [{
+                    "name": "Beurre",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.XtY_GbikIGTSg9YbgqQTxgHaE8%26pid%3DApi&f=1&ipt=ab8bfb8c98c9be6c795921b84e6f9b43ca94244c77e5c34667740189c0d1448f&ipo=images",
+                    "quantity": "",
+                    "description": "Cru (a mettre àprès la cuisson)"
+                },
+                {
+                    "name": "Huile d'olive",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.B85Zf6P7k5JYYE-TT2l4swHaE8%26pid%3DApi&f=1&ipt=bc591d1e5e3bc3c546368d7b4cc36dbb58d1379dbc1870b3532723993efec058&ipo=images",
+                    "quantity": "",
+                    "description": "Cru ou Cuisson"
+                },
+                {
+                    "name": "Huile de noix",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Eu0YW4BJkog7PwilL-l0zgHaE8%26pid%3DApi&f=1&ipt=d8848977d1c268389cab1a980670cd05cb4c071e254c644975a32fab1b06d190&ipo=images",
+                    "quantity": "",
+                    "description": "Cru et au frigo (Ne pas chauffer)"
+                },
+                {
+                    "name": "Huile de lin",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.JaKCp7-d_lGACnUMjxnKGAHaE7%26pid%3DApi&f=1&ipt=c7e65c5633a5a0d8129348d136684b78b507c27f274ab50ae0cd696ba29d7c2b&ipo=images",
+                    "quantity": "",
+                    "description": "Cru et au frigo (Ne pas chauffer)"
+                },
+                {
+                    "name": "Huile de colza",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.KnHEZ0y6uo1qPp5REtq1GQHaFL%26pid%3DApi&f=1&ipt=df530e60c300368c9ecc35f237ac6965bc44627fe3f09fd1b04b66f83413c5ff&ipo=images",
+                    "quantity": "",
+                    "description": "Cru et au frigo (Ne pas chauffer)"
+                }
+            ]
+        },
+        "+/-": {
+            "name": "+/- Dessert",
+            "color": "lightgrey",
+            "ingredients": [{
+                    "name": "Yaourt",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uq0kC1JAiJEip4RkJufa6wHaEo%26pid%3DApi&f=1&ipt=f267398f77c7d34d56994425cf0394491103343d8df5ca2ee42e2828125463fa&ipo=images",
+                    "quantity": "1",
+                    "description": ""
+                },
+                {
+                    "name": "Fromage",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.nDIByZES932V5LuvQBEXdgHaEN%26pid%3DApi&f=1&ipt=d2c8c3cba859c19a4030c965e0cc8bd1dfbd55a616eb3613e1db238a313e5b44&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fruit",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RgDLNlilpwqEYy2zqTxSuAHaD4%26pid%3DApi&f=1&ipt=7ef1a8f1a0b630de3a3c33250b5fc32897bbfb1b4889651507c733801fec57ce&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                },
+                {
+                    "name": "Un dessert de mon choix",
+                    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.HMARNt9olrx44YqoSNr_lwHaD5%26pid%3DApi&f=1&ipt=97044cad897d8374857cac3ae4e959dbca637df7bd5ffb6918223de716af2e44&ipo=images",
+                    "quantity": "",
+                    "description": ""
+                }
+            ]
+        }
+    }
+}
