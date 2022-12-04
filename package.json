@@ -22,7 +22,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
-    "homepage": "https://monnierant.github.io/my-diet-meals/build",
+    "homepage": ".",
     "eslintConfig": {
         "extends": [
             "react-app",
